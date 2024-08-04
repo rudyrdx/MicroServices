@@ -12,3 +12,14 @@ The Python server is responsive for the following:
 - Authenticated requests
 
 This example Demonstrates that you can Divide your project Idea or Application into Multiple Microservices (like in this case 2 Microservices) and each Microservice can be written in different languages and can be run on different servers (in this case Docker). 
+
+## This is a Chat Bot Project, Here after the Authentication, Users can converse with the chat bot, Select the Bot version and get the response from the Bot.
+
+### TODO LISTS:
+- [x] Create a Nodejs Server
+- [x] Create a Python Server
+- [x] Create a Docker file for each server
+- [ ] Databse Integration
+- [ ] Frontend Integration
+- [ ] External API Integration
+- [ ] Testing
