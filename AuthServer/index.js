@@ -9,7 +9,7 @@ const secretKey = 'your_secret_key';
 
 // Simulated user database (Replace with actual database connection)
 const users = [
-    { username: 'user1', password: 'password1' },
+    { username: 'user1', password: 'password2' },
     { username: 'user2', password: 'password2' }
 ];
 
